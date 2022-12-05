@@ -25,13 +25,12 @@
 
 - 📝 I regularly write articles on [https://cnqs.moe/](https://cnqs.moe/)
 
-- 💬 Ask me about **Big Data, Nginx Nodejs, Git ect.**
+- 💬 Ask me about **Golang, Python, Git ect.**
 
 - 📫 How to reach me: (QQ)1835038031 (Mail)okatu@cnqs.moe
 
 - I'm looking forward to meeting **you**!ヾ(≧▽≦*)o
 
-[![Website](https://img.shields.io/website?label=cnqs.moe&style=for-the-badge&url=https%3A%2F%2Fcnqs.moe)](https://cnqs.moe)
 
 <table>
 <tr>
