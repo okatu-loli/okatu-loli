@@ -47,5 +47,5 @@
 </td>
 </tr>
 </table>
-<a href="https://app.daily.dev/cnqianshi"><img src="./devcard.png?type=wide&r=b9p" width="652" alt="QianShi's Dev Card"/></a>
+<a href="https://app.daily.dev/cnqianshi"><img src="./devcard.png" width="356" alt="QianShi's Dev Card"/></a>
 </a>
