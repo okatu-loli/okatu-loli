@@ -47,4 +47,5 @@
 </td>
 </tr>
 </table>
-<a href="https://app.daily.dev/CNQianShi"><img src="https://github.com/okatu-loli/okatu-loli/blob/main/devcard.svg" width="400" alt="QianShi's Dev Card"/></a>
+<a href="https://https://app.daily.dev/cnqianshi"><img src="./devcard.png" width="356" alt="QianShi's Dev Card"/></a>
+</a>
