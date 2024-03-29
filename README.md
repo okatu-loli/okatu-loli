@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [https://cnqs.moe/](https://cnqs.moe/)
 
-- 💬 Ask me about **Golang, Python, Git ect.**
+- 💬 Ask me about **Golang, Python, Git, Linux ect.**
 
 - 📫 How to reach me: (QQ)1835038031 (Mail)okatu@cnqs.moe
 
