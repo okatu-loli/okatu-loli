@@ -47,5 +47,10 @@
 </td>
 </tr>
 </table>
+
+bar_chart: [Coding hours per month](https://github.com/muety/wakapi)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://app.daily.dev/cnqianshi"><img src="./devcard.png" alt="QianShi's Dev Card"/></a>
 </a>
