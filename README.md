@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.cnqs.moe/"><img src="./logo.png" width="200" height="200" alt="cnqs"></a>
+  <a href="https://cnqs.moe/"><img src="./logo.png" width="200" height="200" alt="cnqs"></a>
 </p>
 
 <p align="center">
