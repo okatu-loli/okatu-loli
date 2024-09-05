@@ -21,7 +21,7 @@
 
 - ❤️ Favoring Coding💻 Thinking Philosophy📕, loving the life🥖
 
-- 👨‍💻 All of my projects are available at [https://lab.cnqs.moe/](https://lab.cnqs.moe/)
+- 👨‍💻 All of my projects are available at Github
 
 - 📝 I regularly write articles on [https://cnqs.moe/](https://cnqs.moe/)
 
