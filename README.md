@@ -48,7 +48,7 @@ bar_chart: [Coding hours per month](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go   0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
 ```
 
 <!--END_SECTION:waka-->
