@@ -11,9 +11,7 @@
 <a title="github" target="_blank" href="https://github.com/okatu-loli"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dokatu-loli&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 </p>
 
-### Hi there👏 I'm QianShi, a student from HBFU~
-
-- 💰 Majored in Economic Statistics
+### Hi there👏 I'm QianShi, a developer
 
 - ❤️ Favoring Coding💻 Thinking Philosophy📕, loving the life🥖
 
