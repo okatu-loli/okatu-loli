@@ -46,7 +46,7 @@ bar_chart: [Coding hours per month](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```txt
-Go   5 hrs 23 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+Go   0 hrs 29 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
 ```
 
 <!--END_SECTION:waka-->
